@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # Burger_Queen_App
 Este proyecto consiste en el desarrollo de una aplicación móvil de comida rápida utilizando el framework Ionic. La aplicación permite a los usuarios simular la realización de un pedido, seleccionando productos del menú, añadiéndolos a un carrito y eligiendo un método de pago. El objetivo principal es ofrecer una experiencia fluida de usuario que refleje un flujo real de compra en una plataforma digital, integrando tanto la lógica de negocio como la interfaz gráfica responsiva para dispositivos móviles.
 
@@ -14,7 +13,7 @@ Pasos para realizar la instalación de este proyecto:
 ---
 Clonar el repositorio
 ---
-git clone https://github.com/giojibo/burguer-queen
+git clone https://github.com/Nao0104/Burger_Queen_App.git
 
 ---
 Entra a la carpeta
