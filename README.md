@@ -18,7 +18,7 @@ git clone https://github.com/Nao0104/Burger_Queen_App.git
 ---
 Entra a la carpeta
 ---
-cd 04-burguer-queen
+cd burguer-queen
 
 ---
 #Instala las dependencias
@@ -45,26 +45,3 @@ Ionic 7.1.1
 Docker 
 Mongo db 
 Editor Visual Studio Code
-
-# Instalación 
-Pasos para realizar la instalación de este proyecto: 
-
-## Clonar el repositorio
-git clone https://github.com/giojibo/burguer-queen
-
-## Entra a la carpeta 
-
-cd 04-burguer-queen 
-
-## Instala las dependencias 
-npm install
-
-## Como correr el proyecto
-
-Una vez instalado las dependencias lo que se hace es primero correr el contenedor con el comando: 
-docker compose -p burger-queen up -d
-
-Este comando ejecuta el archivo docker-compose.yml en docker. 
-
-Posteriomente se inicia el front-end con el comando ionic serve 
->>>>>>> 05703dc (Burger_Queen_App)
